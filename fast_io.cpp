@@ -1,4 +1,9 @@
 #include <iostream>
+#include <string>
+#include <climits>
+#include <functional>
+#include <fstream>
+#include <vector>
 
 static const int fast_io = []()
 {
@@ -9,3 +14,4 @@ static const int fast_io = []()
 }();
 
 using namespace std;
+
